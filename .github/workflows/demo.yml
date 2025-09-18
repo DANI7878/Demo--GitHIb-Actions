@@ -12,3 +12,4 @@ jobs:
         run: echo 3+5=$((3+5))
       - name: Subtraction
         run: echo 7-3=$((7-3))
+         echo 7+5=$((7+5))
